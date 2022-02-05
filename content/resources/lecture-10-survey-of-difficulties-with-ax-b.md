@@ -24,7 +24,7 @@ Summary
 
 Large condition number \\(\\Vert A \\Vert \\ \\Vert A^{-1} \\Vert\\)  
 \\(A\\) is ill-conditioned and small errors are amplified.  
-Undetermined case \\(m < n\\) : typical of deep learning  
+Undetermined case \\(m \< n\\) : typical of deep learning  
 Penalty method regularizes a singular problem.
 
 Related chapter in textbook: Introduction to Chapter II

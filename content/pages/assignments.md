@@ -6,41 +6,589 @@ uid: e3ceba9a-d584-e172-2dca-08201f771295
 
 [All problem sets in one file (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
 
-| LEC # | TOPICS | READINGS | ASSIGNMENTS |
-| --- | --- | --- | --- |
-| 1 | The Column Space of \\(A\\) Contains All Vectors \\(A\\boldsymbol{x}\\) | Section I.1 | [Problem Set I.1 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) |
-| 2 | Multiplying and Factoring Matrices  | Section I.2 | [Problem Set I.2 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) |
-| 3 | Orthonormal Columns in \\(Q\\) Give \\(Q’Q= I\\) | Section I.5 | [Problem Set I.5 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) |
-| 4 | Eigenvalues and Eigenvectors | Section I.6 | [Problem Set I.6 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) |
-| 5 | Positive Definite and Semidefinite Matrices | Section I.7 | [Problem Set I.7 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) |
-| 6 | Singular Value Decomposition (SVD) | Section I.8 | [Problem Set I.8 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) |
-| 7 | Eckart-Young: The Closest Rank \\(k\\) Matrix to \\(A\\) | Section I.9 | [Problem Set I.9 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) |
-| 8 | Norms of Vectors and Matrices | Section I.11 | [Problem Set I.11 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) |
-| 9 | Four Ways to Solve Least Squares Problems  | Section II.2 | [Problem Set II.2 Problems 2, 8, 9 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) |
-| 10 | Survey of Difficulties with \\(A\\boldsymbol{x} = \\boldsymbol{b}\\) | Introduction Chapter 2 | [Problem Set II.2 Problems 12, 17 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) |
-| 11 | Minimizing \\(‖\\boldsymbol{x}‖\\) Subject to \\(A\\boldsymbol{x} = \\boldsymbol{b}\\) |  {{< br >}}{{< br >}} Section I.11 {{< br >}}{{< br >}}  | [Problem Set I.11 Problem 6  {{< br >}}Problem Set II.2 Problem 10 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) |
-| 12 | Computing Eigenvalues and Singular Values  | Section II.1 | [Problem Set II.1 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) |
-| 13 | Randomized Matrix Multiplication | Section II.4 | [Problem Set II.4 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) |
-| 14 | Low Rank Changes in \\(A\\) and Its Inverse | Section III.1 | [Problem Set III.1 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) |
-| 15 | Matrices \\(A(t)\\) Depending on \\(t\\), Derivative = \\(dA/dt\\) | Sections III.1–III.2 | [Problem Set III.2 Problems 1, 2, 5 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) |
-| 16 | Derivatives of Inverse and Singular Values | Sections III.1–III.2 | [Problem Set III.2 Problems 3, 12 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) |
-| 17 | Rapidly Decreasing Singular Values | Section III.3 | [Problem Set III.3 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) |
-| 18 | Counting Parameters in SVD, LU, QR, Saddle Points | Appendix, Section III.2 | [Problem Set III.2 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) |
-| 19 | Saddle Points Continued, Maxmin Principle | Sections III.2, V.1 | [Problem Set V.1 Problems 3, 8 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) |
-| 20 | Definitions and Inequalities |  {{< br >}}{{< br >}} Sections V.1, V.3 {{< br >}}{{< br >}}  | [Problem Set V.1 Problems 10. 12  {{< br >}}Problem Set V.3 Problem 3 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) |
-| 21 | Minimizing a Function Step by Step | Sections VI.1, VI.4 | [Problem Set VI.1 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) |
-| 22 | Gradient Descent: Downhill to a Minimum | Section VI.4 | [Problem Set VI.4 Problems 1, 6 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) |
-| 23 | Accelerating Gradient Descent (Use Momentum) | Section VI.4 | [Problem Set VI.4 Problem 5 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) |
-| 24 | Linear Programming and Two-Person Games | Sections VI.2–VI.3 |  {{< br >}}{{< br >}} [Problem Set VI.2 Problem 1  {{< br >}}Problem Set VI.3 Problems 2, 5 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) {{< br >}}{{< br >}}  |
-| 25 | Stochastic Gradient Descent | Section VI.5 | [Problem Set VI.5 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) |
-| 26 | Structure of Neural Nets for Deep Learning | Section VII.1 | [Problem Set VII.1 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) |
-| 27 | Backpropagation to Find Derivative of the Learning Function | Section VII.2 | [Problem Set VII.2 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) |
-| 28 | Computing in Class \[No video available\] | Section VII.2 and Appendix 3 | \[No Problems Assigned\] |
-| 29 | Computing in Class (cont.) \[No video available\] | \[No Readings\] | \[No Problems Assigned\] |
-| 30 | Completing a Rank-One Matrix, Circulants! | Sections IV.8, IV.2 |  {{< br >}}{{< br >}} [Problem Set IV.8  {{< br >}}Problem Set IV.2 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) {{< br >}}{{< br >}}  |
-| 31 | Eigenvectors of Circulant Matrices: Fourier Matrix | Section IV.2 | [Problem Set IV.2 Problems 3, 5 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) |
-| 32 | ImageNet is a Convolutional Neural Network (CNN), The Convolution Rule | Section IV.2 | [Problem Set IV.2 Problem 4 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) |
-| 33 | Neural Nets and the Learning Function | Sections VII.1, IV.10 |  {{< br >}}{{< br >}} [Problem Set VII.1  {{< br >}}Problem Set IV.10 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) {{< br >}}{{< br >}}  |
-| 34 | Distance Matrices, Procrustes Problem | Sections IV.9–IV.10 | [Problem Set IV.9 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) |
-| 35 | Finding Clusters in Graphs | Sections IV.6–IV.7 | [Problem Set IV.6 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets) |
-| 36 | Alan Edelman and Julia Language | Sections III.3, VII.2 | \[No Problems Assigned\]
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+The Column Space of \\(A\\) Contains All Vectors \\(A\\boldsymbol{x}\\)
+{{< tdclose >}}
+{{< tdopen >}}
+Section I.1
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set I.1 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Multiplying and Factoring Matrices 
+{{< tdclose >}}
+{{< tdopen >}}
+Section I.2
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set I.2 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Orthonormal Columns in \\(Q\\) Give \\(Q’Q= I\\)
+{{< tdclose >}}
+{{< tdopen >}}
+Section I.5
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set I.5 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Eigenvalues and Eigenvectors
+{{< tdclose >}}
+{{< tdopen >}}
+Section I.6
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set I.6 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Positive Definite and Semidefinite Matrices
+{{< tdclose >}}
+{{< tdopen >}}
+Section I.7
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set I.7 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Singular Value Decomposition (SVD)
+{{< tdclose >}}
+{{< tdopen >}}
+Section I.8
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set I.8 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Eckart-Young: The Closest Rank \\(k\\) Matrix to \\(A\\)
+{{< tdclose >}}
+{{< tdopen >}}
+Section I.9
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set I.9 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Norms of Vectors and Matrices
+{{< tdclose >}}
+{{< tdopen >}}
+Section I.11
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set I.11 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Four Ways to Solve Least Squares Problems 
+{{< tdclose >}}
+{{< tdopen >}}
+Section II.2
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set II.2 Problems 2, 8, 9 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Survey of Difficulties with \\(A\\boldsymbol{x} = \\boldsymbol{b}\\)
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction Chapter 2
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set II.2 Problems 12, 17 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Minimizing \\(‖\\boldsymbol{x}‖\\) Subject to \\(A\\boldsymbol{x} = \\boldsymbol{b}\\)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Section I.11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set I.11 Problem 6  
+Problem Set II.2 Problem 10 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Computing Eigenvalues and Singular Values 
+{{< tdclose >}}
+{{< tdopen >}}
+Section II.1
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set II.1 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Randomized Matrix Multiplication
+{{< tdclose >}}
+{{< tdopen >}}
+Section II.4
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set II.4 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Low Rank Changes in \\(A\\) and Its Inverse
+{{< tdclose >}}
+{{< tdopen >}}
+Section III.1
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set III.1 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Matrices \\(A(t)\\) Depending on \\(t\\), Derivative = \\(dA/dt\\)
+{{< tdclose >}}
+{{< tdopen >}}
+Sections III.1–III.2
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set III.2 Problems 1, 2, 5 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Derivatives of Inverse and Singular Values
+{{< tdclose >}}
+{{< tdopen >}}
+Sections III.1–III.2
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set III.2 Problems 3, 12 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Rapidly Decreasing Singular Values
+{{< tdclose >}}
+{{< tdopen >}}
+Section III.3
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set III.3 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Counting Parameters in SVD, LU, QR, Saddle Points
+{{< tdclose >}}
+{{< tdopen >}}
+Appendix, Section III.2
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set III.2 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Saddle Points Continued, Maxmin Principle
+{{< tdclose >}}
+{{< tdopen >}}
+Sections III.2, V.1
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set V.1 Problems 3, 8 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Definitions and Inequalities
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sections V.1, V.3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set V.1 Problems 10. 12  
+Problem Set V.3 Problem 3 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Minimizing a Function Step by Step
+{{< tdclose >}}
+{{< tdopen >}}
+Sections VI.1, VI.4
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set VI.1 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Gradient Descent: Downhill to a Minimum
+{{< tdclose >}}
+{{< tdopen >}}
+Section VI.4
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set VI.4 Problems 1, 6 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Accelerating Gradient Descent (Use Momentum)
+{{< tdclose >}}
+{{< tdopen >}}
+Section VI.4
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set VI.4 Problem 5 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Linear Programming and Two-Person Games
+{{< tdclose >}}
+{{< tdopen >}}
+Sections VI.2–VI.3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Problem Set VI.2 Problem 1  
+Problem Set VI.3 Problems 2, 5 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Stochastic Gradient Descent
+{{< tdclose >}}
+{{< tdopen >}}
+Section VI.5
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set VI.5 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Structure of Neural Nets for Deep Learning
+{{< tdclose >}}
+{{< tdopen >}}
+Section VII.1
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set VII.1 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Backpropagation to Find Derivative of the Learning Function
+{{< tdclose >}}
+{{< tdopen >}}
+Section VII.2
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set VII.2 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Computing in Class \[No video available\]
+{{< tdclose >}}
+{{< tdopen >}}
+Section VII.2 and Appendix 3
+{{< tdclose >}}
+{{< tdopen >}}
+\[No Problems Assigned\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Computing in Class (cont.) \[No video available\]
+{{< tdclose >}}
+{{< tdopen >}}
+\[No Readings\]
+{{< tdclose >}}
+{{< tdopen >}}
+\[No Problems Assigned\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Completing a Rank-One Matrix, Circulants!
+{{< tdclose >}}
+{{< tdopen >}}
+Sections IV.8, IV.2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Problem Set IV.8  
+Problem Set IV.2 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Eigenvectors of Circulant Matrices: Fourier Matrix
+{{< tdclose >}}
+{{< tdopen >}}
+Section IV.2
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set IV.2 Problems 3, 5 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+ImageNet is a Convolutional Neural Network (CNN), The Convolution Rule
+{{< tdclose >}}
+{{< tdopen >}}
+Section IV.2
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set IV.2 Problem 4 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Neural Nets and the Learning Function
+{{< tdclose >}}
+{{< tdopen >}}
+Sections VII.1, IV.10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Problem Set VII.1  
+Problem Set IV.10 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Distance Matrices, Procrustes Problem
+{{< tdclose >}}
+{{< tdopen >}}
+Sections IV.9–IV.10
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set IV.9 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Finding Clusters in Graphs
+{{< tdclose >}}
+{{< tdopen >}}
+Sections IV.6–IV.7
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set IV.6 (PDF)]({{< baseurl >}}/resources/mit18_065s18psets)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+Alan Edelman and Julia Language
+{{< tdclose >}}
+{{< tdopen >}}
+Sections III.3, VII.2
+{{< tdclose >}}
+{{< tdopen >}}
+\[No Problems Assigned\]
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
