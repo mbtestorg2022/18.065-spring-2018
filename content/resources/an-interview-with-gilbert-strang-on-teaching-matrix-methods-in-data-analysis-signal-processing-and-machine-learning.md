@@ -1,6 +1,91 @@
 ---
 content_type: resource
-description: ''
+description: TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
+  TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle TooLongTitle
 file: null
 resourcetype: Video
 title: An Interview with Gilbert Strang on Teaching Matrix Methods in Data Analysis,
