@@ -17,7 +17,7 @@ Lectures: 3 sessions / week, 1 hour / session
 Prerequisites
 -------------
 
-[_18.06 Linear Algebra_](/courses/18-06sc-linear-algebra-fall-2011/)
+[_18.06 Linear Algebra_](/courses/18-06sc-linear-algebra-fall-2011)
 
 Description
 -----------

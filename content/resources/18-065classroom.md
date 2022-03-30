@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 07a3d3ea-a91f-17c3-4182-eb7fdf14e25d
 resourcetype: Image
 title: 18-065classroom.jpg
 uid: 9351956b-909e-7a3c-fff0-432df10ba563
