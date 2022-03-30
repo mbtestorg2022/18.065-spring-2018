@@ -31,7 +31,7 @@ Textbook
 
 Strang, Gilbert. _Linear Algebra and Learning from Data_. [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), 2019. ISBN: 9780692196380.
 
-Professor Strang created [a website for the book](http://math.mit.edu/~gs/learningfromdata/), including a link to the ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Table of Contents (PDF)](http://math.mit.edu/~gs/learningfromdata/dsla_toc.pdf), sample chapters, and essays on ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Deep Learning (PDF)](http://math.mit.edu/%7Egs/learningfromdata/SIAM03.pdf) and ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Neural Nets (PDF)](http://math.mit.edu/%7Egs/learningfromdata/dsla_dlnn.pdf).
+Professor Strang created [a website for the book](http://math.mit.edu/~gs/learningfromdata/), including a link to the [Table of Contents (PDF)](http://math.mit.edu/~gs/learningfromdata/dsla_toc.pdf), sample chapters, and essays on [Deep Learning (PDF)](http://math.mit.edu/%7Egs/learningfromdata/SIAM03.pdf) and [Neural Nets (PDF)](http://math.mit.edu/%7Egs/learningfromdata/dsla_dlnn.pdf).
 
 Requirements and Grading
 ------------------------
